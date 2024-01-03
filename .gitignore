@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/.vscode/
+/源文件/
+*.zip
+*.7z
